@@ -1,0 +1,40 @@
+{
+    "animals":
+     [{"name": "Cow",
+    "weight": 420,
+    "habitant": "Netherlands",
+    "endangered": false,
+    "food": {"Grass": 4,"legumes": 2},     
+    "others": ["Elephant"],
+    "Delicious": 5
+    },
+    {
+      "name": "Elephant",
+      "weight": 4000,
+      "habitant": "Asia",
+      "endangered": false,
+      "food": ["Grass","Fruit"],
+      "others": ["Cow"],
+      "Delicious": 2
+    },
+    {
+    "name": "Gray Wolf",
+    "weight": 40,
+    "habitant": "North America",
+    "endangered": false,
+    "food": ["preys","meat"],
+    "others": [],
+    "Delicious": 1
+    },
+    {
+      "name": "Squirrel",
+      "weight": 0.02,
+      "habitant": "Australia",
+      "endangered": false,
+      "food": ["nuts"],
+      "others": [],
+      "Delicious": 1
+    }
+
+  ]
+}
